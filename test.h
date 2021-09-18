@@ -26,7 +26,7 @@ int thaink1(int i){
 //07+07*10=077
 //08+08*11=096
 int think2(int i){
-    return i+(i+3))*i;
+    return i+(i+3)*i;
 }
 
 int main () {
